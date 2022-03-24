@@ -20,4 +20,4 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Parables/paystack-backend)
 
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://github.com/Parables/paystack-backend)
+[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
