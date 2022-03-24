@@ -1,0 +1,7 @@
+{
+  "name": "Paystack Backend Server",
+  "description": "A simple backend server for Paystack using Express",
+  "repository": "https://github.com/Parables/paystack-backend",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "paystack-api"]
+}
