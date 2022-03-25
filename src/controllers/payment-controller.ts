@@ -58,6 +58,7 @@ export const chargeRequest = async (req: Request, res: Response) => {
     if (response.status === 200) return res.json(response.data);
   } catch (error) {
     console.log("Charge Error:", error.response.data);
+    console.log("Charge Error Message:", error?.response?.data?.data?.message);
     return res.status(400).send(error?.response?.data?.data?.message);
   }
 };
